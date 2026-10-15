@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460" role="img" aria-labelledby="title desc">
+<title id="title">Sunny — AI Application Engineering</title>
+<desc id="desc">A lavender and rose portfolio banner. Thoughtful AI. Useful software. Agents, RAG and recommendation.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141321"/><stop offset="1" stop-color="#25213A"/></linearGradient>
+ <linearGradient id="petal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C8AEED" stop-opacity=".55"/><stop offset="1" stop-color="#E9B8CC" stop-opacity=".20"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#C8AEED"/><stop offset="1" stop-color="#E9B8CC"/></linearGradient>
+ <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#C8AEED" opacity=".14"/></pattern>
+</defs>
+<rect width="1400" height="460" rx="24" fill="url(#bg)"/>
+<rect x="876" y="0" width="524" height="460" rx="24" fill="url(#dots)"/>
+<path d="M48 55H1352" stroke="#443653"/>
+<g font-family="'Segoe UI',Arial,sans-serif" fill="#C5B7D6" font-size="12" letter-spacing="2.4">
+ <text x="58" y="35">SUNNY / ENGINEERING PORTFOLIO</text><text x="1342" y="35" text-anchor="end">IDEAS → SYSTEMS</text>
+</g>
+<circle cx="65" cy="105" r="5" fill="#C8AEED"/>
+<text x="82" y="110" font-family="'Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="2.8" fill="#C5B7D6">AI APPLICATION ENGINEERING</text>
+<text x="53" y="237" font-family="Georgia,'Times New Roman',serif" font-size="122" letter-spacing="-5" fill="#F5EEFC">Sunny<tspan fill="#E9B8CC">.</tspan></text>
+<text x="59" y="292" font-family="'Segoe UI',Arial,sans-serif" font-size="28" font-weight="400" fill="#F5EEFC">Thoughtful AI. Useful software.</text>
+<path d="M60 326H520" stroke="url(#accent)" stroke-width="1.5"/>
+<text x="60" y="362" font-family="'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="2.8" fill="#C5B7D6">AGENTS / RAG / RECOMMENDATION</text>
+<g transform="translate(1116 213)">
+ <circle r="146" fill="none" stroke="#443653"/>
+ <circle r="111" fill="none" stroke="#443653" stroke-dasharray="2 9"/>
+ <ellipse cx="0" cy="-47" rx="37" ry="94" transform="rotate(0)" fill="url(#petal)" stroke="#C8AEED" stroke-opacity=".22"/><ellipse cx="0" cy="-47" rx="37" ry="94" transform="rotate(60)" fill="url(#petal)" stroke="#C8AEED" stroke-opacity=".22"/><ellipse cx="0" cy="-47" rx="37" ry="94" transform="rotate(120)" fill="url(#petal)" stroke="#C8AEED" stroke-opacity=".22"/><ellipse cx="0" cy="-47" rx="37" ry="94" transform="rotate(180)" fill="url(#petal)" stroke="#C8AEED" stroke-opacity=".22"/><ellipse cx="0" cy="-47" rx="37" ry="94" transform="rotate(240)" fill="url(#petal)" stroke="#C8AEED" stroke-opacity=".22"/><ellipse cx="0" cy="-47" rx="37" ry="94" transform="rotate(300)" fill="url(#petal)" stroke="#C8AEED" stroke-opacity=".22"/>
+ <circle r="27" fill="#211D31" stroke="#C8AEED" stroke-opacity=".5"/>
+ <path d="M-10 0h20M0-10v20" stroke="#C8AEED" stroke-width="1.3"/>
+ <circle cx="127" cy="-72" r="5" fill="#E9B8CC"/><circle cx="-126" cy="73" r="4" fill="#C8AEED"/>
+</g>
+<rect x="923" y="334" width="386" height="63" rx="12" fill="#211D31" stroke="#443653"/>
+<g font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#C5B7D6">
+ <circle cx="948" cy="365" r="4" fill="#C8AEED"/><text x="962" y="370">retrieve</text>
+ <path d="M1027 365h28m-4-4 4 4-4 4" fill="none" stroke="#E9B8CC"/>
+ <text x="1070" y="370">reason</text><path d="M1135 365h28m-4-4 4 4-4 4" fill="none" stroke="#E9B8CC"/>
+ <text x="1178" y="370">verify</text><circle cx="1279" cy="365" r="4" fill="#E9B8CC"/>
+</g>
+<text x="60" y="426" font-family="'Segoe UI',Arial,sans-serif" font-size="11" letter-spacing="1.4" fill="#C5B7D6">CURIOUS ABOUT MODELS. CAREFUL ABOUT THE DETAILS.</text>
+</svg>
