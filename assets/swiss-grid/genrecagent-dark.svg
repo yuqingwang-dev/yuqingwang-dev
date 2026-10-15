@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="GenRecAgent — generative recommendation and verified tool execution">
+  <title>GenRecAgent — generative recommendation and verified tool execution</title>
+  <desc>Adapted from Swiss Grid by Awesome GitHub Profile contributors. GenRecAgent — generative recommendation and verified tool execution</desc>
+  <defs>
+
+    <pattern id="sg-col" x="72" y="0" width="88" height="420" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="76" height="420" fill="#e9f0f6" opacity="0.055" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="#142238" />
+  <rect x="72" y="0" width="1056" height="420" fill="url(#sg-col)" />
+
+
+  <g stroke="#e9f0f6" opacity="0.09">
+    <line x1="72" y1="72" x2="1128" y2="72" />
+    <line x1="72" y1="156" x2="1128" y2="156" />
+    <line x1="72" y1="240" x2="1128" y2="240" />
+    <line x1="72" y1="324" x2="1128" y2="324" />
+  </g>
+
+
+  <rect x="72" y="42" width="1056" height="6" fill="#e9f0f6" />
+
+  <g font-family="'Helvetica Neue', Helvetica, Arial, 'Inter', 'Microsoft YaHei', 'Noto Sans CJK SC', system-ui, sans-serif">
+
+    <text x="72" y="66" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#a6b7c9" letter-spacing="4">01 / SELECTED RESEARCH</text>
+    <text x="1128" y="66" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#a6b7c9" letter-spacing="4">GENRECAGENT</text>
+
+
+    <text x="66" y="236" font-size="102" font-weight="700" fill="#e9f0f6" letter-spacing="-4">GenRec</text>
+    <text x="470" y="236" font-size="102" font-weight="700" fill="#9bbcff" letter-spacing="-4">Agent</text>
+
+
+    <text x="864" y="106" font-size="17" font-weight="500" fill="#e9f0f6">112,590 catalog items.</text>
+    <text x="864" y="130" font-size="17" font-weight="500" fill="#e9f0f6">8,151 test users.</text>
+    <text x="864" y="154" font-size="17" font-weight="500" fill="#e9f0f6">9 tool actions.</text>
+    <rect x="864" y="176" width="44" height="4" fill="#9bbcff" />
+
+
+    <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <text x="72" y="290" fill="#a6b7c9" letter-spacing="3">01</text>
+      <text x="72" y="312" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e9f0f6">Semantic ID</text>
+      <text x="72" y="334" fill="#a6b7c9">RQ-VAE · representation</text>
+
+      <text x="336" y="290" fill="#a6b7c9" letter-spacing="3">02</text>
+      <text x="336" y="312" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e9f0f6">Retrieval</text>
+      <text x="336" y="334" fill="#a6b7c9">Dense · Transformer</text>
+
+      <text x="600" y="290" fill="#a6b7c9" letter-spacing="3">03</text>
+      <text x="600" y="312" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e9f0f6">Tool policy</text>
+      <text x="600" y="334" fill="#a6b7c9">Qwen · LoRA · recovery</text>
+
+      <text x="864" y="290" fill="#a6b7c9" letter-spacing="3">04</text>
+      <text x="864" y="312" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e9f0f6">Evaluation</text>
+      <text x="864" y="334" fill="#a6b7c9">offline · traces · checks</text>
+    </g>
+
+
+    <rect x="72" y="366" width="1056" height="1.5" fill="#e9f0f6" />
+    <text x="72" y="390" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#a6b7c9" letter-spacing="3">PYTHON / PYTORCH / SEMANTIC ID</text>
+    <text x="1128" y="390" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#a6b7c9" letter-spacing="3">VIEW PROJECT →</text>
+  </g>
+</svg>
